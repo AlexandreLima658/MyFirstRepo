@@ -1,4 +1,4 @@
-- ### Alguns comandos utilizados para a criação e o versionamento do repositório
+### Alguns comandos utilizados para a criação e o versionamento do repositório :eyes:
 
 - git init
 
